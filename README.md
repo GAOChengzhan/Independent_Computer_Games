@@ -1,5 +1,19 @@
 # Independent-Computer-Games
 
+## Laser Defender
+
+### Introduction
+
+a spacing shooter game, where players drive a fighter in space and aim to shoot down as
+many enemy fighters as possible while avoiding being destroyed
+
+### Main Menu
+![image](https://user-images.githubusercontent.com/39005000/198186532-de204737-8052-4aee-b446-ad01bcabd9ec.png)
+### Play
+#### Attacking Enemies
+
+#### Under Attack
+
 ## TileVenia
 
 ### Introduction
@@ -23,7 +37,3 @@ a classic 2D grid-based side-scrolling roguelite game, where players adventure i
 ![image](https://user-images.githubusercontent.com/39005000/198185906-2a9826f8-81f7-4448-836a-33f22e7d15b3.png)
 ![image](https://user-images.githubusercontent.com/39005000/198185932-f9d973e1-8469-4848-8726-59dba486b815.png)
 
-## Laser Defender
-### Introduction
-a spacing shooter game, where players drive a fighter in space and aim to shoot down as
-many enemy fighters as possible while avoiding being destroyed
